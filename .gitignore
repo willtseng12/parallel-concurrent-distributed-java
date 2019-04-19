@@ -3,7 +3,7 @@
 *.log
 
 *.iml
-*.idea
+**/.idea/
 
 *.zip
 .metadata
